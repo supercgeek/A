@@ -1,6 +1,4 @@
 """
-Hey, a junior engineer was asked to implement the following engineering specification:
-
 Write a function that when given a tic-tac-toe board (two 
 dimensional array of strings that are either 'X', 'O', or ''), 
 return the winner of the board. If there is no winner, return None.
